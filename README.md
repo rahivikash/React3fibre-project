@@ -2,7 +2,7 @@ Setup:
 
 1. Download the file and Extract it.
 
-2.Open the file through VSCode.
+  2.Open the file through VSCode.
 
 3. Run the Command :  yarn dev.
 
